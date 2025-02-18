@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5026192845004754961}
   - component: {fileID: 3720089345110703812}
   m_Layer: 0
-  m_Name: LaunchProjectile
+  m_Name: AB_LaunchProjectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 3400148398698205056}
   - component: {fileID: 1268944737921042303}
   m_Layer: 0
-  m_Name: ApplyStatus
+  m_Name: AB_ApplyStatus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 3248518753049741269}
   - component: {fileID: 1210979271552965481}
   m_Layer: 0
-  m_Name: RollDice
+  m_Name: AB_RollDice
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -285,7 +285,7 @@ GameObject:
   - component: {fileID: 2733060600165536293}
   - component: {fileID: 426769625197629238}
   m_Layer: 0
-  m_Name: Damage
+  m_Name: AB_Damage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -329,7 +329,7 @@ GameObject:
   - component: {fileID: 3351419273826832834}
   - component: {fileID: 3833551244536319757}
   m_Layer: 0
-  m_Name: RemoveRessource
+  m_Name: AB_RemoveRessource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 6567968908579161537}
   - component: {fileID: 3139073509931261950}
   m_Layer: 0
-  m_Name: Heal
+  m_Name: AB_Heal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
